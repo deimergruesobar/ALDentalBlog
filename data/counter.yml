@@ -2,10 +2,10 @@ enable : true
 heading : "COMPROMETIDOS CON LA CALIDAD!"
 counter_item:
   - title: "ESPECIALISTAS"
-    number: "6"
+    number: "3"
 
   - title: "ODONTOLOGOS GENERALES"
-    number: "8"
+    number: "2"
 
-  - title: "MARCAS QUE NOS RESPALDAN"
+  - title: "PROCEDIMIENTOS ESPECIALIZADOS"
     number: "12"

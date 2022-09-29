@@ -1,6 +1,6 @@
 ---
-title       : "Roxo Blog"
+title       : "ALDental Blog"
 date        : 2019-12-23T20:17:01+06:00
-description : "By fusing strategy & design we help our partners build their brands, drive business, & stand out from the noise in saturated markets! Follow our blog for the latest case studies and projects."
+description : "somos un grupo de especialistas del area de la salud, este espacio esta hecho para compartir con nuestros pacientes y la poblacion en general informacion acerca de la tecnologia y procedimientos que estan al alcance de nuestros pacientes"
 ---
 
